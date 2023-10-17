@@ -5,7 +5,7 @@ Hogern is a game I made using out of the box ideas for levels in the game.
 How to get started
 1. Pick a username
 2. Join or create a party under your username. It is optional to pick a password.
-3. Have you friends join your party, ready up, and get into the game.
+3. Have your friends join your party, ready up, and get into the game.
 
 How to play
 
