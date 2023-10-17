@@ -8,6 +8,7 @@ How to get started
 3. Have you friends join your party, ready up, and get into the game.
 
 How to play
+
 Once in the game and your game encounters a bug your game will crash. Don't worry though, this is all apart of the game. After your game crashes once you log back in you can create a new party with your friends and find a new level unlocked. This is the game progression. Have fun!
 # --YOU MUST DISABLE ANTI VIRUS-- 
 Hogern uses files that can close your game which anti viruses flag as malware. Hogern is a horror game meant to use your computer as a way to increase the experience.
