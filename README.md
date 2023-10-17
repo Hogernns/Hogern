@@ -18,3 +18,5 @@ The Code Injecter file is used for downloading the code from another repository 
 
 ---PAC DETAILS---
 The Pac file is the games logo used for the shell and explorer.
+
+Consider Helping me out! Link in About!
